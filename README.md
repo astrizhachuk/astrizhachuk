@@ -1,11 +1,9 @@
 ### Hi there 👋
-
+![Summary coders rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=astrizhachuk)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=astrizhachuk&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrizhachuk&hide=TeX&layout=compact)
 <!--
 **astrizhachuk/astrizhachuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Summary coders rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=asrizhachuk)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asrizhachuk&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrizhachuk&hide=TeX&layout=compact)
 
 Here are some ideas to get you started:
 
